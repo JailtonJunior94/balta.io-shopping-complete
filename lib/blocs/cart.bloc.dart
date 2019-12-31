@@ -37,7 +37,7 @@ class CartBloc extends ChangeNotifier {
 
   decrease(CartItemModel item) {
     if (item.quantity > 1) {
-      item.quantity++;
+      item.quantity--;
       calculateTotal();
     }
   }
