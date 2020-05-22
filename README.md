@@ -1,16 +1,24 @@
-# shopping
+## O que é?
+Curso de criação de um App Mobile completo e nativo, interfaces independentes utilizando BloC, Provider e Repository Pattern
 
-A new Flutter project.
+## Tecnologias
+- Flutter
+- Dart
+- Firebase
+- MobX
 
-## Getting Started
+## Balta.io Develop your career
+[Curso - Criando Apps nativas escaláveis com Flutter, BloC e Provider](https://app.balta.io/courses/7186)
 
-This project is a starting point for a Flutter application.
+## Certificado
+![Screenshot](/images/Certificated.png)
 
-A few resources to get you started if this is your first Flutter project:
+## IDE utilizada
+[Visual Studio Code](https://code.visualstudio.com/)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Extensões Visual Studio Code 
+[Flutter](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)<br/>
+[Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code)<br/>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Requisitos
+[Flutter get started](https://flutter.dev/docs/get-started/install)
